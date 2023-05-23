@@ -6,7 +6,7 @@ A C# (Super) Crash Course in Thai
 - ให้เริ่มเขียนโปรแกรมใน Main ตลอดเวลา (เหตุผลเพราะเกี่ยวกับเรื่องของ Class เอาไว้ทีหลัง)
 ```C#
 using System;
-public class Hello --> ตรงนี้จะตรงกับชื่อไฟล์เสมอ
+public class Hello --> ตรงนี้ส่วนใหญ่จะตรงกับชื่อไฟล์ แต่ก็ไม่เสมอไป
 {
     public static void Main()
         {
