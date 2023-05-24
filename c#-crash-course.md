@@ -1,5 +1,5 @@
 # C# (Super) Crash Course
-A C# (Super) Crash Course in Thai
+A C# (Super) Crash Course in Thai for people with some to no background in programming.
 
 ## Do not forget
 - จบบรรทัดด้วย `;` เสมอ
