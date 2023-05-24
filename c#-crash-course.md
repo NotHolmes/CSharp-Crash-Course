@@ -61,7 +61,7 @@ Output : 1 + 2 = 3
 - ใช้คำสั่ง `System.Console.ReadLine();`
 - `System.Console.WriteLine(Console.ReadLine());` จะรอรับค่าจากคีย์บอร์ด แล้ว print ออกมาทันที
 - หรือถ้าต้องการเก็บค่าที่รับเข้ามาต้องเอา string มารับ เช่น 
-- 
+
 ```C#
 string input = Console.ReadLine();
 
